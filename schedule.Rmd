@@ -14,40 +14,40 @@ LSR readings can be found in the free, online textbook, [_Learning Statistics wi
 
 | Week | Date |  Topic                                           |Readings            | Quiz       | Homework    |
 -------|------|--------------------------------------------------|--------------------|------------|-------------|
-| 1    | 1/10 | Correlation (statistical test, power)            | [Revelle Chapter 4](readings/Correlation chapter4 Revelle.pdf) |            |             |
-| -    | 1/12 | Correlation II (correlation matrix, reliability) |                    |            |             |
-| -    | 1/13 | _Lab: Correlations_                              |                    |            |             |
-| 2    | 1/17 | Univariate regression (equation, $\hat{Y}$, $e$) |  LSR Chapter 15    |  Quiz 1    |             |
-| -    | 1/19 | Univariate regression II (inferential tests)     |                    |            |             |
-| -    | 1/20 | _Lab: Univariate regression_                     |                    |            |             |
-| 3    | 1/24 | Univariate regression III (precision)            |                    |  Quiz 2    |             |
-| -    | 1/26 | General linear model                             |                    |            |             |
-| -    | 1/27 | _Lab: General linear model _                     |                    |            |             |
-| 4    | 1/31 | Partial correlations                             |                    |  Quiz 3    |             |
-| -    | 2/02 | Multiple regression (interpretation, model fit)  |                    |            |             |
-| -    | 2/03 | _Lab: Two continuous predictors_                 |                    |            | HW 1 Due    |
-| 5    | 2/07 | MR: tolerance, model comparison                  |                    |  Quiz 4    |             |
-| -    | 2/09 | MR: Categorical predictors and one-way ANOVA     |  LSR Chapter 14    |            |             |
-| -    | 2/10 | _Lab: Categorical predictors_                    |                    |            |             |
-| 6    | 2/14 | Finish ANOVA; start assumptions                  | [Lynam et al (2006)](readings/Lynam-2006-Assessment.pdf) |  Quiz 5    |             |
-| -    | 2/16 | Assumptions and diagnostics                      |                    |            |             |
-| -    | 2/17 | _Lab: Diagnostics_                               |                    |            |             |             
-| 7    | 2/21 | Causal models                                    | [Rohrer (2018)](https://journals.sagepub.com/doi/pdf/10.1177/2515245917745629), [Rohrer (2017)](http://www.the100.ci/2017/03/14/that-one-weird-third-variable-problem-nobody-ever-mentions-conditioning-on-a-collider/)                   |  Quiz  6   |             |
-| -    | 2/23 | Interactions: Continuous x categorical (_pre-recorded_)           |  [McCabe et al (2018)](readings/AMPPS.pdf)                  |            |             |
-| -    | 2/24 | _Lab: Interactions_                              |                    |            |             |
-| 8    | 2/27 |               |      |      | HW 2 Due    |
-| -    | 2/28 | Interactions: Continuous predictors              | LSR Chapter 16     |  Quiz 7    |     |
-| -    | 3/02 | Factorial ANOVA                                  |                    |            |             |
-| -    | 3/03 | _Lab: ANOVA_                                     |                    |            |             |
-| 9    | 3/07 | Factorial ANOVA                                  | [McClelland & Judd (1993)](readings/McClelland-1993-Psychol Bull.pdf)     |  Quiz 8    |             |
-| -    | 3/09 | Power and 3-way Interactions                            |                    |            |             |
-| -    | 3/10 | _Lab: papaja_                                    |                    |            |             |
-| 10   | 3/14 | Polynomials and  Bootstrapping  | [Yarkoni & Westfall (2017)](readings/Yarkoni Westfall PPS.pdf) |            |             |
-| -    | 3/16 | Machine learning                           |                    |  Quiz 9    |             |
-| -    | 3/17 | _Lab: Bootstrapping_                             |                    |            | HW 3 Due    |
-|Finals| 3/20 |                                                  |                    |            | Final Project Due |         
+| 1    | 1/07 | Correlation (statistical test, power)            | [Revelle Chapter 4](readings/Correlation chapter4 Revelle.pdf) |            |             |
+| -    | 1/09 | Correlation II (correlation matrix, reliability) |                    |            |             |
+| -    | 1/10 | _Lab: Correlations_                              |                    |            |             |
+| 2    | 1/14 | Univariate regression (equation, $\hat{Y}$, $e$) |  LSR Chapter 15    |  Quiz 1    |             |
+| -    | 1/16 | Univariate regression II (inferential tests)     |                    |            |             |
+| -    | 1/17 | _Lab: Univariate regression_                     |                    |            |             |
+| 3    | 1/21 | Univariate regression III (precision)            |                    |  Quiz 2    |             |
+| -    | 1/23 | General linear model                             |                    |            |             |
+| -    | 1/24 | _Lab: General linear model _                     |                    |            |             |
+| 4    | 1/28 | Partial correlations                             |                    |  Quiz 3    |             |
+| -    | 1/30 | Multiple regression (interpretation, model fit)  |                    |            |             |
+| -    | 1/31 | _Lab: Two continuous predictors_                 |                    |            | HW 1 Due    |
+| 5    | 2/04 | MR: tolerance, model comparison                  |                    |  Quiz 4    |             |
+| -    | 2/06 | MR: Categorical predictors and one-way ANOVA     |  LSR Chapter 14    |            |             |
+| -    | 2/07 | _Lab: Categorical predictors_                    |                    |            |             |
+| 6    | 2/11 | Finish ANOVA; start assumptions                  | [Lynam et al (2006)](readings/Lynam-2006-Assessment.pdf) |  Quiz 5    |             |
+| -    | 2/13 | Assumptions and diagnostics                      |                    |            |             |
+| -    | 2/14 | _Lab: Diagnostics_                               |                    |            |             |             
+| 7    | 2/18 | Causal models                                    | [Rohrer (2018)](https://journals.sagepub.com/doi/pdf/10.1177/2515245917745629), [Rohrer (2017)](http://www.the100.ci/2017/03/14/that-one-weird-third-variable-problem-nobody-ever-mentions-conditioning-on-a-collider/)                   |  Quiz  6   |             |
+| -    | 2/20 | Interactions: Continuous x categorical (_pre-recorded_)           |  [McCabe et al (2018)](readings/AMPPS.pdf)                  |            |             |
+| -    | 2/21 | _Lab: Interactions_                              |                    |            |             |
+| 8    | 2/25 |               |      |      | HW 2 Due    |
+| -    | 2/25 | Interactions: Continuous predictors              | LSR Chapter 16     |  Quiz 7    |     |
+| -    | 2/27 | Factorial ANOVA                                  |                    |            |             |
+| -    | 2/28 | _Lab: ANOVA_                                     |                    |            |             |
+| 9    | 3/04 | Factorial ANOVA                                  | [McClelland & Judd (1993)](readings/McClelland-1993-Psychol Bull.pdf)     |  Quiz 8    |             |
+| -    | 3/06 | Power and 3-way Interactions                            |                    |            |             |
+| -    | 3/07 | _Lab: papaja_                                    |                    |            |             |
+| 10   | 3/11 | Polynomials and  Bootstrapping  | [Yarkoni & Westfall (2017)](readings/Yarkoni Westfall PPS.pdf) |            |             |
+| -    | 3/13 | Machine learning                           |                    |  Quiz 9    |             |
+| -    | 3/14 | _Lab: Bootstrapping_                             |                    |            | HW 3 Due    |
+|Finals| 3/21 |                                                  |                    |            | Final Project Due |         
 
-**Final:** The final project is due at 9am on March 24th.
+**Final:** The final project is due at 9am on March 21st.
 
 # Graded materials
 
@@ -77,7 +77,7 @@ You may discuss homework assignments with your classmates; however, it is import
 
 ## Final project
 
-The final project is due at 9am on the last day of finals week (March 24). Please note that, unlike quizzes and homeworks, there will not be an opportunity to re-attempt this assignment. Instructions for the final project can be [found here](https://uopsych.github.io/psy612/final.html).
+The final project is due at 9am on the last day of finals week (March 21). Please note that, unlike quizzes and homeworks, there will not be an opportunity to re-attempt this assignment. Instructions for the final project can be [found here](https://uopsych.github.io/psy612/final.html).
 
 # Materials needed
 
